@@ -1,9 +1,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: Project | Vimel Meng
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  Projects of Vimel Meng.
 baseurl: "/bay" # the subpath of the site
 url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
@@ -13,32 +13,32 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
+    - name: Projects
     - name: Blog
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
+      value: vimelmeng@gmail.com
+      link: mailto:vimelmeng@gmail.com
     - name: WeChat
-      value: YourWeChatUsername
+      value: vimelvv
       link: "#"
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
+    - name: LinkedIn
+      link: http://linkedin.com/in/vimelmeng
     - name: Facebook
       link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
+    - name: YouTube
       link: http://linkedin.com/in/YourLinkedInUsername
+    - name: Instagram
+      link: https://www.instagram.com/vimelmeng/
     - name: GitHub
       link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+    - name: Bilibili
+      link: https://space.bilibili.com/182812785
+
 
 # Build settings
 markdown: kramdown
